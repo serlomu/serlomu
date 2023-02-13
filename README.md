@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Sergio Lopez Munoz
 
-<!--
-**serlomu/serlomu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### BS Electronics Engineering training in Software Engineering
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as Analyst
+- 🌱 I’m currently learning Python,SQL,Django,AI
+- 💬 You can find all my portfolio here:https://www.hyperiondev.com/portfolio/116304/
+- 📫 How to reach me: serlomu@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##### Connect with me:
+
+linkedin.com/in/sergio-lopez-munoz-63a273257
