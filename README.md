@@ -1,6 +1,12 @@
 ### Hi there 👋, I'm Sergio Lopez Munoz
 
-##### BS Electronics Engineering training in Software Engineering
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966](https://user-images.githubusercontent.com/29477331/218872372-8cc0ae72-6f5b-41b0-9f8b-4815b6f22792.gif)
+
+
+
+
+
+##### BS Electrical and Electronics Engineering training in Software Engineering
 
 - 🔭 I’m currently working as Analyst
 
